@@ -31,7 +31,7 @@
     <None Include="Dokumentation.md">
       <Filter>Ressourcendateien</Filter>
     </None>
-    <None Include="ReadMe.md">
+    <None Include="..\ReadMe.md">
       <Filter>Ressourcendateien</Filter>
     </None>
   </ItemGroup>
