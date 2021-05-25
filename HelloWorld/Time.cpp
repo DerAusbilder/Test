@@ -1,15 +1,7 @@
 // ===========================================================================
 // Time.cpp
 // Neuer Kommentar
-// Neuer Kommentar2
-// Neuer Kommentar3
-// Neuer Kommentar4
-// Neuer Kommentar5
-// Neuer Kommentar6
-// Neuer Kommentar7
-// Neuer Kommentar8
-// Neuer Kommentar9
-// Neuer Kommentar10
+/
 // ===========================================================================
 
 #include <iostream>
